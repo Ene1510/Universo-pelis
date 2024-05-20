@@ -33,7 +33,7 @@ body {
     height: 100vh;
     width: 100%;
     position: relative;
-    background-image:  linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(..//Escritorio/Netflix-Background-prueba-1.jpg);
+    background-image:  linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(https://github.com/Ene1510/Universo-pelis/blob/main/Netflix-Background-prueba-1.jpg);
     background-image: cover;
     background-repeat: no-repeat;
     font-family: Arial, Helvetica, sans-serif;
